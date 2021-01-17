@@ -1,0 +1,5 @@
+Age,weight(lb),height(in),race,gender,pre_heart_diseases,pre_cancer,pre_respiratory_disease,pre_liver_disease,pre_allergy,side_dizziness,side_fever,side_headache,side_appendicitis,side_generic_allergy
+24,150,66,3,1,0,0,0,0,0,1,0,1,0,0
+77,170,70,1,1,1,0,1,0,0,0,1,1,1,0
+30,110,64,6,2,0,1,0,0,0,1,1,1,0,0
+40,120,65,4,2,0,0,0,0,1,0,1,0,0,1
